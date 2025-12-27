@@ -377,6 +377,12 @@ body{
 
 /* Testimonial */
 /* Swiper Container */
+.testimonial h1{
+    color: var(--accent);
+}
+.testimonial h5{
+    color: var(--text-muted);
+}
 .slider-wrapper {
     overflow: hidden;
     max-width: 1200px;
